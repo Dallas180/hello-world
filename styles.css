@@ -1,34 +1,31 @@
-body{
-background-color: rgb(102, 188, 217);
-    }
-    
-   
-    header{
-    background-color:rgb(15, 142, 151);
-        }
-        
+body {
+    background-color: rgb(102, 188, 217);
+}
 
 
-    main img {
-        width: 50%;
-        border-radius:50%;
+header {
+    background-color: rgb(15, 142, 151);
+}
 
-    }
 
-    body 
-      h1{
-        color:rgb(49, 0, 128);
-        margin-left:50px;
-    }
 
-    section
-       h4{
-        color:rgb(92, 0, 128);
-        margin: left 40px;;
-    }
+main img {
+    width: 50%;
+    border-radius: 50%;
 
-    section
-       h5{
-        color:rgb(0, 6, 128);
-        margin: left 50px;;
-    }
+}
+
+body h1 {
+    color: rgb(49, 0, 128);
+    margin: left 40px;
+}
+
+section h4 {
+    color: rgb(92, 0, 128);
+    margin: left 40px;
+}
+
+section h5 {
+    color: rgb(0, 6, 128);
+    margin: left 40px;
+}
