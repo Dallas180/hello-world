@@ -12,8 +12,8 @@ let otherUserName= prompt ("Please enter with caution");
 
 //if (anyAnswer == ''){
     function getOtherOtherUserName (){
-        let userName= prompt ("Im Warning you..enter LIONS");
-        document.write("Ohhhh man..YOU ARE AWESOME!!"+userName)   
+        let userName= prompt ("Guess what?");
+        document.write("..YOU ARE AWESOME!!"+userName)   
     }
 
 //if (anyAnswer == 'Who CARES'){
@@ -27,10 +27,12 @@ let otherUserName= prompt ("Please enter with caution");
    
     function getLionsName(){
        
-        let lionPics = prompt("How many times do you ")
+        let lionPics = prompt("How many times do you want lions? ")
         let parse =parseInt(lionPics)
         for (let i =0;i<parse; i++){
-            document.write("<p>Dallas</p>");
+            document.write('<img src=clement-roy-MUeeyzsjiY8-unsplash.jpg" alt="lions" />') 
+
+            
         }
     }
 
