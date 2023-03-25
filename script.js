@@ -50,20 +50,6 @@ let otherUserName= prompt ("Please enter with caution");
     guessAge()
 
 
-//  let displayBeach = prompt("How many flights outta here this year do you want? (Sending up to 5 planes to your location, beep boop)");
-//     displayBeach = parseInt(displayBeach);
-//     console.log(displayBeach);
-// while (displayBeach < 1 || displayBeach > 5){
-//     displayBeach = prompt ("Oop, slow down and follow directions! This is for science. Scale of 1-5, how much do you need a vacation? AND GO!");
-// }
-
-// for (let i = 0; i < displayBeach; i++){
-//      document.write('<img class="tinyplane" src="tiny.plane.jpg" />');
-//      }
-
-
-    
-// return displayBeach;
 
 
 
