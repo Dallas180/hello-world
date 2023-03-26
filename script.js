@@ -30,7 +30,7 @@ if (anyAnswer == 'Who CARES');
         let lionPics = prompt("How many times do you want lions? ")
         let parse =parseInt(lionPics)
         for (let i =0;i<parse; i++){
-            document.write('<img src="lion12.jpeg"alt="lions" />') 
+            document.write(lionPics) 
 
          }
         return lionPics
